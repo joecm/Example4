@@ -50,6 +50,9 @@ public:
 		node4->roll(Ogre::Radian(Ogre::Math::HALF_PI));
 		node4->attachObject(ent4);
 
+		mSceneMgr->setDisplaySceneNodes(true);
+
+
 	}
 };
 
