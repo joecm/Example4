@@ -1,0 +1,4 @@
+*.project
+*.o
+/Example4
+/plugins
